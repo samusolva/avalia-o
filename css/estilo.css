@@ -1,0 +1,12 @@
+.lanterna{
+    height: 300px;
+    display: block;
+}
+
+.bateria{
+    height: 20px;
+}
+
+#cont-bateria{
+    display: inline;
+}
